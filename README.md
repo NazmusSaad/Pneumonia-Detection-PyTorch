@@ -21,23 +21,6 @@ This Pneumonia Detection Web App utilizes a **custom CNN model built with PyTorc
 
 ---
 
-## 📂 **Project Structure**  
-
-```
-PneumoniaAIWebApp/
-│── data/                 # Dataset (train/test folders)
-│── model.py              # CNN architecture (PyTorch)
-│── train.py              # Model training script
-│── evaluate.py           # Model evaluation script
-│── main.py               # Streamlit web app
-│── util.py               # Helper functions (image preprocessing)
-│── pneumonia_classifier.pth  # Trained PyTorch model
-│── labels.txt            # Class labels
-│── requirements.txt      # Dependencies
-│── README.md             # Project documentation
-```
-
----
 ## 🖼 **Example Output**  
 When an X-ray is uploaded, the app will display:  
 ✔️ The uploaded image  
