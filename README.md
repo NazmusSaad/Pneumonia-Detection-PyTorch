@@ -74,6 +74,8 @@ When an X-ray is uploaded, the app will display:
 ✔️ The uploaded image  
 ✔️ The **predicted class (Normal/Pneumonia)**  
 ✔️ A **confidence score (%)**  
+![Pneumonia Detection Example](https://github.com/NazmusSaad/Pneumonia-Detection-PyTorch/blob/main/Screenshot 2025-03-16 135059.png)
+
 
 ---
 
